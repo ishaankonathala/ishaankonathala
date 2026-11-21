@@ -62,7 +62,7 @@
 ### Backend & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,postgres,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,postgres,linux,vscode&theme=dark" />
 </p>
 
 ---
