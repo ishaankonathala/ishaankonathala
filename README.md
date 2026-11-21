@@ -72,7 +72,7 @@ A computer vision-based system designed to identify emergency vehicles and suppo
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Linkedin]([https://linkedin.com/](https://www.linkedin.com/in/ishaan-konathala-0202272a2/))
+- 💼 LinkedIn: [Linkedin]([https://www.linkedin.com/in/ishaan-konathala-0202272a2/])
 - 📧 Email: ksishaan10@gmail.com
 - 🐙 GitHub: [@ishaankonathala](https://github.com/ishaankonathala)
 
