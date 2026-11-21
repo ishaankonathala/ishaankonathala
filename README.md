@@ -72,10 +72,16 @@ A computer vision-based system designed to identify emergency vehicles and suppo
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Linkedin]([https://www.linkedin.com/in/ishaan-konathala-0202272a2/])
-- 📧 Email: ksishaan10@gmail.com
-- 🐙 GitHub: [@ishaankonathala](https://github.com/ishaankonathala)
+### 🤝 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishaan-konathala-0202272a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ishaankonathala">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 ---
 
 *"Building intelligent systems, one project at a time."*
