@@ -40,7 +40,8 @@
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48"/>
 </p>
 
 ### AI / Machine Learning
